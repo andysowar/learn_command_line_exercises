@@ -5,5 +5,4 @@ at DaVinci.
 
 I took this class in t2 2015!
 
-https://github.com/andysowar/learn_command_line_exercises
 
