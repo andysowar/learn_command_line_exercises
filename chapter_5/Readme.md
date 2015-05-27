@@ -31,12 +31,12 @@
 
 ###### 1. Can you cd into the temp directory?
 
-    I can cd into the temp directory that I made, but not the tmp directory.
+    Yes, from `/homework/chapter_5` type `cd temp`.
     
 ###### 2. Why don't we go into the temp directory?
 
-    No, typing `cd temp` does not work because tmp is a hidden directory so you can't go directly into it. 
-    
+     Ok here you go: `cd ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_5/temp`
+     
 ###### 3. Can you go to the slash temp directory?
     
     Yes if you type `cd /tmp` then you can change into it. 
