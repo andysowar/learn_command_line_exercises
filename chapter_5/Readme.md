@@ -14,17 +14,20 @@
 ###### 4. cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
     cd ~/documents. 
-    To find this in Finder, I go to my home directory (AndySowar) which is on the far left side. In that folder I can find my documents folder.
+    To find this in Finder, I go to my home directory (AndySowar) which is on the far left side.
+    In that folder I can find my documents folder.
     
 ###### 5. cd to your Downloads directory, then find it with your file browser.
 
     cd ~/downloads. 
-    To find this in Finder, I go to my home directory (AndySowar) which is on the far left side. In this folder I can find my downloads folder.
+    To find this in Finder, I go to my home directory (AndySowar) which is on the far left side.
+    In this folder I can find my downloads folder.
     
 ###### 6. Find another directory with your file browser, then cd to it.
 
     cd ~/workspace. 
-    To find this in Finder, I go to my home directory (AndySowar). Inside this folder I can easily locate my workspace folder.
+    To find this in Finder, I go to my home directory (AndySowar). 
+    Inside this folder I can easily locate my workspace folder.
     
 ###### 7. Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
 
