@@ -26,5 +26,20 @@ Notice how sometimes I put a / (slash) at the end of a directory? That makes sur
 >I could technically have a directory with a file extension in the name, 
 so this is a great idea. 
 
+#English Questions
+
+Can you copy the foo.txt file to slash temp? (Create foo.txt first...)
+
+>First I need to `touch foo.txt`. No you can't. This is what happens `cp foo.txt /temp`
+                                          
+>`cp: /temp: Permission denied`.
+                                                                      
+
+Can you copy .bash_profile in your home directory to the current directory?
+
+> Yes! First, `cd` to go to my home directory. 
+
+>Next,  `cp .bash_profile ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10`
+. And that's it, no errors. 
 
 
