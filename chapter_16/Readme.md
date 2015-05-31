@@ -6,6 +6,10 @@
 
 >The output is: `4.0K	foo.txt`
 
+>I can also use `ls -sk foo.txt'
+
+>Output: 4 foo.txt
+
 ######Can you output all the txt files in this directory?
 
 >Definitely, using the `cat` & `*` commands: `cat *.txt`.
