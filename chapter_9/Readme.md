@@ -18,3 +18,8 @@ I would have to delete my .txt file first before I can remove this.
 
 >Great! To do this we use touch. The command is `touch foo.txt`
 
+######What happens if you touch an existing file?
+
+>Nothing happens, it keeps the original file.
+
+
