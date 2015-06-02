@@ -22,7 +22,7 @@
           
 ######Show me the content of the text files in slash temp.
 
->This can be achieved just like above: `cat temp/*.txt`
+>This can be achieved just like above: `cat /temp/*.txt`
 
 >Output: `This is fun!
           This is cool!
