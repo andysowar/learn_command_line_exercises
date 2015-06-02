@@ -20,6 +20,7 @@ I would have to delete my .txt file first before I can remove this.
 
 ######What happens if you touch an existing file?
 
->Nothing happens, it keeps the original file.
+>Using the timestamp provided by `ls -l <file>` command, the original file gets overwritten 
+when using `touch` on an existing file.
 
 
