@@ -18,6 +18,8 @@
 
 ######Can you remove everything in the slash temp slash foo directory?
 
->After making it with `mkdir temp/foo/` we use `rm -rf temp/foo/` to recursively remove foo. 
-
+> Yes, after making the folder with `mkdir /tmp/foo`, & checking to see if it's there with `ls /tmp/ `, I
+ can remove it with `rm -rf /tmp/foo`.
+ 
+ 
 
