@@ -22,10 +22,6 @@
           
 ######Show me the content of the text files in slash temp.
 
->This can be achieved just like above: `cat /temp/*.txt`
+>This can be achieved with `cat /tmp/*.txt`. 
 
->Output: `This is fun!
-          This is cool!
-          This is neat!
-          What's up foo?
-          Uncool bro...`
+>Output: There are no .txt files in /tmp/.
