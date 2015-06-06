@@ -8,15 +8,14 @@
 
 >To start we need these files. So, `mkdir log`, then `touch log/production.log`.
 
-No, you can't. This is what happens: 
+Yes, you can. This is how to do it:
 
->`mv production.log /temp`
+>`mv log/production.log /tmp/`
 
->mv: rename production.log to /temp: Permission denied
 
 ######Can you zero out that file?
 
-> Yes. If it type `rm production.log` it will zero it out.
+> Yes. If it type `echo -n '' > production.log` it will zero it out.
 
 
 
