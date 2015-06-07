@@ -2,11 +2,8 @@
 
 ######Can you show me all the files in slash temp slash foo?
 
->Yes! We use the `find` command: `find temp/foo/*`.
+>Yes! We use the `find` command: `find /tmp/foo/*`.
 
->Output:  `temp/foo/file_3.txt
-           temp/foo/file_4.txt`
-           
 ######What log files are in your log directory?
 
 >Ok! We use the same `find` command for this: `find temp/log/*.log`
