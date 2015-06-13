@@ -4,7 +4,7 @@
 
 >I can figure this out by using `man ls`.
 
->`ls -sk` will print the size of each file in kilobytes.
+>`ls -lh` also known as human readable form.
 
 ######Is there a case insensitive option to grep?
 
